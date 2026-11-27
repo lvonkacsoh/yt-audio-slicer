@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environments and tool caches
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Downloaded music, working files and local cover images
+output/
+covers/
+
+# URL lists and run artefacts (personal, may contain private playlists)
+*.remaining.txt
+missing.txt
+cookies.txt
